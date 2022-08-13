@@ -1,0 +1,5 @@
+var nome = "João"
+var sobrenome = "Silva"
+var idade = "22"
+var nomeCompleto = nome+" "+sobrenome+" sua idada é "+idade
+console.log(nomeCompleto)
