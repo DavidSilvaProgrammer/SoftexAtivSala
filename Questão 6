@@ -1,0 +1,10 @@
+function escreverCartao (titulo, nome, sobrenome){
+
+resultado= titulo + "\n"+nome+"\n"+sobrenome 
+
+    
+console.log(resultado)
+}
+
+escreverCartao (5,"Joao", "Silva")
+
