@@ -1,0 +1,8 @@
+//Escreva a função escreverCartao, que recebe como parâmetros um título, um nome e um sobrenome e retorna uma única string como resultado.
+
+
+function perimetro (r){
+    return 3.14*r
+}
+area=(r) => {return 3.14*r**2}
+console.log (`perimetro = ${perimetro(2)}\narea = ${area(2)}`);
